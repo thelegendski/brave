@@ -1,0 +1,18 @@
+/*
+    import fonts
+*/
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    src: url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2) format('woff2');
+}
+
+/* 
+    general stylin' 
+    applies to the body
+*/
+body {
+    margin: 0;
+    overflow: hidden;
+}
